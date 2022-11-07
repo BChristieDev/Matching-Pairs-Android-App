@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="desc">Matching game card</string>
+    <string name="exit">Exit</string>
+    <string name="playAgain">Play Again</string>
+</resources>
